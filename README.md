@@ -13,3 +13,6 @@ Forecast next-day hourly zonal LMPs and flag high-risk (spike) hours across PJM 
 
 **Data courtesy of EIA (PJM wholesale market datasets)**
 
+**Author:**
+  - Developed by Behnam Jabbari Marand, Ph.D. Student, NC State University
+  - Focus: Optimization, integer programming, and power systems applications.
